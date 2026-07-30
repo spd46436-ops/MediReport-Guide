@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color: #102A43; background: #F3FAF8; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; }
+.grid-bg { background-image: linear-gradient(rgba(16,42,67,.055) 1px, transparent 1px), linear-gradient(90deg, rgba(16,42,67,.055) 1px, transparent 1px); background-size: 28px 28px; }
