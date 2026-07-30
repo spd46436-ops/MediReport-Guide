@@ -1,0 +1,1 @@
+export default function NotFound() { return <main className="grid min-h-screen place-items-center bg-mist px-5 text-center"><div><p className="font-bold tracking-[.2em] text-mint">404</p><h1 className="mt-3 text-4xl font-bold text-ink">পৃষ্ঠা পাওয়া যায়নি</h1><a href="/" className="mt-7 inline-block rounded-full bg-ink px-6 py-3 font-bold text-white">ফিরে যান</a></div></main>; }
