@@ -1,6 +1,6 @@
 # MediReport Guide
 
-A Bengali-first, premium B2B landing page for diagnostic laboratory partnerships in Bangladesh.
+A Bengali-first, premium B2B landing page for diagnostic laboratory partnerships in west bengal.
 
 ## Local setup
 
